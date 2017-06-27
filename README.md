@@ -7,7 +7,7 @@ If you want to follow along "lesson style" here's my suggested progression:
 - Buliding our own K-Means Algorithm
 - K-Nearest Neighbors and Hyperparameter Search
 - Model Validation Techniques
-- K-Nearest Neighbors and Hyperparameter Search
+- Hyperparameter Selection and Visualization
 - Feature Selection
 - Ensemble Methods
 - Numerai Competition Attempt
